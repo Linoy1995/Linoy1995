@@ -2,9 +2,7 @@
 
 ## I am a Software Engineering student (B.Sc)
 
-Highly motivated
- 
-
+- :Star_Eyes: Highly motivated
 - 🌱 Skilled in Java, Android Development, C and Software Development.
 - ✨ looking for a new challenge that will let me to express my skills.
 - ⚡ Goals: Contribute more to Open Source project
@@ -21,7 +19,7 @@ Highly motivated
 
 <br />
 
-### Connect with me
+# Connect with me
 [<img align="left" alt="Linoy1995" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> [linkedin]
  
 <br />
