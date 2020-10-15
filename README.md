@@ -2,8 +2,8 @@
 
 ### I am a Software Engineering student (B.Sc)
 - 🌱 Highly motivated
-- :heavy_check_mark: Skilled in Java, Android Development, C and Software Development.
 - ✨ looking for a new challenge that will let me to express my skills.
+- :heavy_check_mark: Skilled in Java, Android Development, C and Software Development.
 - ⚡ Goals: Contribute more to Open Source project
 
 ### Languages and Tools:
