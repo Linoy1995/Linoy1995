@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I am [**Linoy**][linkedin]
 
-<!--
-**Linoy1995/Linoy1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am a Software Engineering student (B.Sc)
 
-Here are some ideas to get you started:
+Highly motivated
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Skilled in Java, Android Development, C and Software Development.
+- ✨ looking for a new challenge that will let me to express my skills.
+- ⚡ Goals: Contribute more to Open Source project
+
+### Languages and Tools:
+[<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" />]
+[<img align="left" alt="Eclipse" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" />]
+[<img align="left" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
+[<img align="left" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />]
+[<img align="left" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
+
+
+<br />
+
+###Connect with me
+[<img align="left" alt="Linoy1995" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> [linkedin]
+ 
+
+[linkedin]: https://www.linkedin.com/in/linoy-shemo
