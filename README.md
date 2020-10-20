@@ -4,7 +4,7 @@
 - 🌱 Highly motivated
 - ✨ looking for a new challenge that will let me to express my skills.
 - :heavy_check_mark: Skilled in Java, Android Development, C and Software Development.
-- ⚡ Goals: Contribute more to Open Source project
+- ⚡ Goals: Contribute more projects
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/02/VSWinIcon_100x.png" />
