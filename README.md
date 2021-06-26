@@ -1,6 +1,6 @@
 # Hi, I am [**Linoy**][linkedin]
 
-### I am a Software Engineering student (B.Sc)
+### I am bachelor of software engineering degree (B.Sc)
 - 🌱 Highly motivated
 - ✨ looking for a new challenge that will let me to express my skills.
 - :heavy_check_mark: Skilled in Java, Android Development, C and Software Development.
